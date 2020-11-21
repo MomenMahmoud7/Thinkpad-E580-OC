@@ -13,7 +13,8 @@ GPU Intel UHD 620.
 # Known Issues
 
 - Sleep by lid close works only one time after starting the system  
-( Can't sleep by Lid close after first sleep by Lid close ).
+( Can't sleep by Lid close after first sleep by Lid close ).  
+- After wake from sleep slow charger detection (plugged / unplugged).  
 - Brightness increase/decrease shortcuts doesn't exist in shortcuts settings after adding battery patch.  
 Workaround: Change Brightness increase/decrease shortcuts before adding ssdt-BAT or you can change brightness level from control center.
 
